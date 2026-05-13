@@ -2,6 +2,10 @@
 
 A Week 1 Web3 credit ledger project built with Node.js, Hardhat, and Solidity.
 
+## Learning Journey
+
+This is the first file from my first week of Web3 learning. I will use GitHub to share my full journey from a complete beginner to becoming a DeFi analyst.
+
 ## What It Does
 
 `CreditLedger` records signed credit changes for named accounts. Each ledger entry stores:
